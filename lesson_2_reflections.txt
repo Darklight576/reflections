@@ -6,5 +6,21 @@ To say git git that I'm going to use this directory for "gitting"
 2. How is the staging area different from the working directory and the repository? 
    What value do you think it offers?
 
-With staging area I can commit not all files at once, but only these, 
-which is related my change.
+With staging area I can commit not all files at once, but only those, 
+which are related to my change.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+Because I can commit only those files, which are related to logical change
+
+4. What are some situations when branches would be helpful in keeping your history organized?
+   How would branches help?
+
+In master branch I can save my working version of app, and in other braches I can make some
+experiments like adding new feature or translating in other languages.
+
+5. How do the diagrams help you visualize the branch structure?
+
+Because they visualize the branch stucture, so I can just look at diagram and do what I wnated to do
+
+6. 
